@@ -7,4 +7,46 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="bgColor">#f5f5f5</color>
+    <color name="fontWColor">#f5f5f5</color>
+    <color name="fontBColor">#a0000000</color>
+    <color name="disableColor">#EBECEE</color>
+    <color name="badRelation">#c72d2d</color>
+    <color name="normalRelation">#f2db68</color>
+    <color name="goodRelation">#6cb77e</color>
+    <color name="favRelation">#ff54bb</color>
+
+    <color name="ISTJ">#5fba51</color>
+    <color name="sISTJ">#995fba51</color>
+    <color name="ISFJ">#2361ab</color>
+    <color name="sISFJ">#992361ab</color>
+    <color name="INFJ">#c7a84f</color>
+    <color name="sINFJ">#99c7a84f</color>
+    <color name="INTJ">#8dcc86</color>
+    <color name="sINTJ">#998dcc86</color>
+    <color name="ISTP">#774d85</color>
+    <color name="sISTP">#99774d85</color>
+    <color name="ISFP">#b4563c</color>
+    <color name="sISFP">#99b4563c</color>
+    <color name="INFP">#2361ac</color>
+    <color name="sINFP">#992361ac</color>
+    <color name="INTP">#d6a2a9</color>
+    <color name="sINTP">#99d6a2a9</color>
+    <color name="ESTP">#0127ea</color>
+    <color name="sESTP">#990127ea</color>
+    <color name="ESFP">#47ac66</color>
+    <color name="sESFP">#9947ac66</color>
+    <color name="ENFP">#90b254</color>
+    <color name="sENFP">#9990b254</color>
+    <color name="ENTP">#1a17ac</color>
+    <color name="sENTP">#991a17ac</color>
+    <color name="ESTJ">#8dcc85</color>
+    <color name="sESTJ">#998dcc85</color>
+    <color name="ESFJ">#be5601</color>
+    <color name="sESFJ">#99be5601</color>
+    <color name="ENFJ">#852129</color>
+    <color name="sENFJ">#99852129</color>
+    <color name="ENTJ">#c7a84e</color>
+    <color name="sENTJ">#99c7a84e</color>
 </resources>

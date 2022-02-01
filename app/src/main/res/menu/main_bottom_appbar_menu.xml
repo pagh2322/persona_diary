@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ab_relation"
+        android:title="@string/relation"
+        app:showAsAction="ifRoom"/>
+    <group>
+        <item
+            android:id="@+id/ab_me"
+            android:title="@string/myInfo"/>
+        <item
+            android:id="@+id/ab_setting"
+            android:title="@string/settings"/>
+    </group>
+</menu>

@@ -10,6 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PersonaDiary">
         <activity
+            android:name=".activity_add_persona.AddPersonaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity_type_detail.TypeDetailActivity"
+            android:exported="false"
+            android:label="@string/title_activity_type_detail"
+            android:theme="@style/Theme.PersonaDiary.NoActionBar" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
